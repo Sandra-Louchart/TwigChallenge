@@ -1,0 +1,10 @@
+{
+    "name": "sandra/twig-challenge",
+    "authors": [
+        {
+            "name": "Sandra-Louchart",
+            "email": "sandra.louchart@gmail.com"
+        }
+    ],
+    "require": {}
+}
